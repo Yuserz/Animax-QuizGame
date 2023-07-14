@@ -1,2 +1,4 @@
-# JavaGame
-1st year, 2nd semiste college project
+### ANIMAX
+
+A Quiz game built with JAVA and Netbeans
+
